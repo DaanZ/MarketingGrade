@@ -1,0 +1,35 @@
+{
+    "name": {
+        "name": "name",
+        "website": {
+            "url": "website",
+            "logo": "logo",
+            "services": "",
+            "focus": ""
+        },
+        "social": {
+            "LinkedIn": {
+                "followers": "amount",
+                "posts": "amount",
+                "likes": "amount"
+            },
+            "Instagram": {
+                "followers": "amount",
+                "posts": "amount",
+                "likes": "amount"
+            },
+            "Youtube": {
+                "followers": "amount",
+                "posts": "amount",
+                "likes": "amount"
+            }
+        },
+        "SEO": {
+            "organic_keywords": [],
+            "paid_keywords": [],
+            "top_keywords": [],
+            "authority_score": "",
+            "unique_visitors": ""
+        }
+    }
+}

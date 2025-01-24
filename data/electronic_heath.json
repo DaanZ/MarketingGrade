@@ -1,0 +1,130 @@
+{
+    "companies": {
+        "Epic": {
+            "name": "Epic",
+            "website": {
+                "url": "https://www.epic.com/",
+                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsWZUWQAB2FTPdJCwurXjDehLGXjaOwPt7Tg&s",
+                "services": "",
+                "focus": ""
+            },
+            "social": {
+                "LinkedIn": {
+                    "url": "https://www.linkedin.com/company/epic1979",
+                    "followers": "795,647",
+                    "posts": "twice a week",
+                    "likes": "avg. 400 per post"
+                },
+                "Instagram": {
+                    "url": "https://www.instagram.com/lifeatepic/",
+                    "followers": "2,940",
+                    "posts": "97",
+                    "likes": "avg. 100 per post"
+                },
+                "Youtube": {
+                    "url": "https://www.youtube.com/c/EpicEHR",
+                    "followers": "17,000",
+                    "posts": "72",
+                    "views": "avg. 1000 per video"
+                }
+            },
+            "SEO": {
+                "organic_keywords": "279,301",
+                "paid_keywords": "0",
+                "SEO_clicks": "236,266",
+                "authority_score": "55",
+                "organic_traffic": "449,133/month"
+            },
+            "grades": {
+                "Content": "C+",
+                "SEO": "B",
+                "Social": "B",
+                "Overall": "B+"
+            }
+        },
+        "Cerner": {
+            "name": "Oracle Health",
+            "website": {
+                "url": "https://www.oracle.com/health/",
+                "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwHUaDLUfNRrg7tWk4TSeFaGnzjjlSZN06Gw&s",
+                "services": "",
+                "focus": ""
+            },
+            "social": {
+                "LinkedIn": {
+                    "url": "https://www.linkedin.com/showcase/oraclehealth/",
+                    "followers": "35,452",
+                    "posts": "3 times per week",
+                    "likes": "avg. 50"
+                },
+                "Instagram": {
+                    "url": "https://www.instagram.com/oracle/",
+                    "followers": "358,000",
+                    "posts": "1,933",
+                    "likes": "avg. 250"
+                },
+                "Youtube": {
+                    "url": "https://www.youtube.com/@oracle",
+                    "followers": "144,000",
+                    "posts": "4626",
+                    "views": "38,211,426"
+                }
+            },
+            "SEO": {
+                "organic_keywords": "18,006",
+                "paid_keywords": "28,293",
+                "seo_clicks": "14,800/month",
+                "authority_score": "87",
+                "organic_traffic": "17,800,000/month"
+            },
+            "grades": {
+                "Content": "B-",
+                "SEO": "A",
+                "Social": "A",
+                "Overall": "A"
+            }
+        },
+        "MediTech": {
+            "name": "MEDITECH",
+            "website": {
+                "url": "https://ehr.meditech.com/",
+                "logo": "https://ehr.meditech.com/themes/ehrmeditech/images/meditech-logo.svg",
+                "services": "",
+                "focus": ""
+            },
+            "social": {
+                "LinkedIn": {
+                    "url": "https://www.linkedin.com/company/meditech",
+                    "followers": "55,894",
+                    "posts": "3 times per day",
+                    "likes": "avg. 25 per post"
+                },
+                "Instagram": {
+                    "url": "https://www.instagram.com/meditechehr/",
+                    "followers": "1,679",
+                    "posts": "1,858",
+                    "likes": "avg. 5 per post"
+                },
+                "Youtube": {
+                    "url": "https://www.youtube.com/channel/UCyj0QFHbuw4kViZWe309pYg",
+                    "followers": "1,050",
+                    "posts": "154",
+                    "views": "144,950"
+                }
+            },
+            "SEO": {
+                "organic_keywords": "14,629",
+                "paid_keywords": "0",
+                "seo_clicks": "10,300/month",
+                "authority_score": "43",
+                "organic_traffic": "57,484/month"
+            },
+            "grades": {
+                "Content": "C-",
+                "SEO": "C",
+                "Social": "C",
+                "Overall": "C"
+            }
+        }
+    }
+}
